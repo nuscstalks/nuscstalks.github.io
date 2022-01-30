@@ -1,6 +1,6 @@
-# Seminar Website
-Website for invited seminar.
+# CS Colloquium Website
+Website for NUS CS Colloquium Series.
 
-URL: https://meelgroup.github.io/seminar-website/
+URL: https://meelgroup.github.io/nuscstalks/
 
 Webmaster: Jiong
