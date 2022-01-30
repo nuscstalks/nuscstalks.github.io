@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-Seminar hosted by Meel Group.
+NUS CS Colloquium hosted by School of Computing.
