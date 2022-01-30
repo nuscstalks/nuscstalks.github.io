@@ -1,0 +1,19 @@
+<div class="navbar__wrapper">
+  <div class="navbar">
+    <a href="#" class="brand"> </a>
+    <nav class="nav">
+      <button class="nav__toggle" aria-expanded="false" type="button">
+        Menu
+      </button>
+      <ul class="nav__wrapper">
+        {% for item in site.data.navigation %}
+          <li class="nav__item"> 
+            <a href="{{ item.link | relative_url}}" {% if page.url == item.link %}class="current"{% else %}class="other"{% endif %}>{{ item.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+
+  <script src="{{ '/assets/js/nav_button.js' | relative_url }}"></script>
+</div>
