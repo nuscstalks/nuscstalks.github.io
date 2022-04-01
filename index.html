@@ -12,5 +12,22 @@ title: NUS CS Colloquium
   </head>
   <body>
     <h1 style="text-align: center;">NUS CS Colloquium</h1>
+
+    <h2>2021-2022 Talks</h2>
+
+    <ul>
+      <hr>
+      {% for post in site.posts %}
+        <li>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          {{ post.date | date: "%a, %d %b %Y" }} <br>
+          {% assign author = site.authors | where: 'short_name', post.author | first %}
+          {% if author %}
+            {{ author.name }}, {{ author.position }}
+          {% endif %}
+          <hr>
+        </li>
+      {% endfor %}
+    </ul>
   </body>
 </html>

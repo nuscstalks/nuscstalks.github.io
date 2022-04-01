@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: Talks
-  link: /talk.html
 - name: Contact
   link: /contact.html
