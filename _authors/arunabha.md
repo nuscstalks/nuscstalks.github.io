@@ -1,5 +1,5 @@
 ---
-short_name: arunabha Arunabha 
+short_name: arunabha
 name: Arunabha Sen
 position: Professor, School of Computing
 ---
