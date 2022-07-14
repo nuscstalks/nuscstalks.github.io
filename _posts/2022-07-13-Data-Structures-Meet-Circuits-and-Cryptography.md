@@ -15,5 +15,5 @@ We continue this line of research by showing that data structure lower bounds fo
 Alexander Golovnev is an Assistant Professor at Georgetown University. Prior to this, he was a Rabin postdoctoral fellow at Harvard University, a postdoctoral fellow at Columbia University, and a Research Scientist at Yahoo Research. He received his Ph.D. from the Courant Institute of Mathematical Sciences at New York University. Alexander's research interests lie broadly in computational complexity, algorithms, learning theory, cryptography, and pseudorandomness, with a focus on proving lower bounds for various computational models.
 
 ## Video
-<iframe width="420" height="345" src=" https://www.youtube.com/embed/nkgqMUzRSuw&list=PL8VjsZ4j2I7owRi7uy3B04l97CHYviCqL&index=8&t=10s">
+<iframe width="420" height="345" src=" https://www.youtube.com/embed/nkgqMUzRSuw">
 </iframe>
