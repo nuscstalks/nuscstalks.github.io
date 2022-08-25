@@ -2,7 +2,7 @@
 layout: post
 author: roland
 ---
-Constraint Solving – Revisiting Optimal Arc Consistency
+Constraint Solving–Revisiting Optimal Arc Consistency
 
 ## Abstract
 This talk will revisit algorithms for local consistency, in particular, the most well-known one being Arc Consistency (AC). A classic important result is the AC3.1/AC2001 algorithm for arc consistency.  Prior to this work, the practical algorithm was AC3 but this was known not to be theoretically optimal. On the other hand, it was well known that there were optimal algorithms such as AC4 but it was simply not efficient in practice.  This was for some time, a separation between time complexity versus practical efficiency. The AC3.1/AC2001 algorithm was the first work which showed that it was possible to be: 
