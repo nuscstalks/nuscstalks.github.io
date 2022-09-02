@@ -13,3 +13,7 @@ Based on joint works with Nawal Benabbou, Mithun Chakraborty, Ayumi Igarashi, Ju
 ## Biodata
 Roland Yap is an associate professor in the School of Computing, National University of Singapore. He obtained his PhD from Monash University, Australia. His research interests are in Artificial Intelligence, Big Data, Constraints, Programming Languages, Security. He is well known for his work on Constraint Logic Programming and the CLP(R) programming language which is one of the first programming languages where constraints are first class. CLP(R) has led to many developments in Constraint Programming (CP) and Logic Programming. 
 
+## Video
+<iframe width="420" height="345" src=" https://www.youtube.com/embed/
+yWYasc9wOAU">
+</iframe>
