@@ -25,6 +25,8 @@ title: NUS CS Colloquium
           {% else %}
             {% assign post_2223 = post_2223 | push: post %}
           {% endif %}
+        {% else %}
+            {% assign post_2223 = post_2223 | push: post %}
         {% endif %}
       {% endfor %}
 
